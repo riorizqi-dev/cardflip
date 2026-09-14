@@ -4,7 +4,7 @@ Game memory matching klasik dengan tema logo teknologi. Hafalkan posisi ikon saa
 
 ## Demo
 
-[https://cardflip.vercel.app](https://cardflip.vercel.app)
+[https://cardflip-plum.vercel.app](https://cardflip-plum.vercel.app)
 
 ## Fitur
 
